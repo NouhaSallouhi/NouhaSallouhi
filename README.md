@@ -2,7 +2,7 @@
 
 <p><em>Master in Information systems engineering at <a href="http://www.http://www.fsegt.rnu.tn/">University of Tunis</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
-<img align="right" alt="GIF" src="https://github.com/NouhaSallouhi/NouhaSallouhi/blob/main/coderGirl.gif?raw=true" width="450" height="290" />
+<img align="right" alt="GIF" src="https://github.com/NouhaSallouhi/NouhaSallouhi/blob/main/coderGirl.gif?raw=true" width="350" height="400" />
 
 <!--
 **NouhaSallouhi/NouhaSallouhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

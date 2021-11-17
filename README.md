@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 -->
 
 ### <img src="https://media.giphy.com/media/j0MktH0wmO0U4XVUAx/giphy.gif" width="50"> A little more about me...
+	
+	
+
+ 
+	[<img align="left" alt="nouha sallouhi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 
 ```javascript
 const nouha = {
@@ -32,10 +39,32 @@ const nouha = {
 			'npm',
 			'Git',
 			'GitHub',
-			'Visual Studio Code',
+			'<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />[youtube]',
 			
 		],
 		currentlyLearning: 'Angular', 'TypeScript', 
 	},
 };
 ```
+### <img src="https://media.giphy.com/media/YLxkiyH7rXlnZwPk7E/giphy.gif" width="50"> When I'm not coding, I like...
+
+-   Baking
+-   Daydreaming
+-   If there is beach nearby, snorkeling too!
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Nouha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nouhasallouhi" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouhasallouhi" />
+
+</details>
+
+###### ✨This profile is inspired by [Thaiane Braga](https://github.com/Thaiane)
+	
+	[linkedin]:https://www.linkedin.com/in/nouha-sallouhi-8b238bb3/

@@ -31,23 +31,22 @@ Here are some ideas to get you started:
 
 ```javascript
 const nouha = {
-	pronouns: 'she' | 'her',
-	technologies: {
-		language: 'javascript',java
-		frontEnd: ['SCSS', 'HTML', 'CSS'],
-		backEnd: ['Node.js', 'Express.js', spring, spring boot],
-		architecture: ['microservices'],
-		testing: ['jest, 'jUnit'],
-		tools: [
-			'Webpack',
-			'npm',
-			'Git',
-			'GitHub',
-			'visuel studios,
-			
-		],
-		currentlyLearning: 'Angular', 'TypeScript', 
-	},
+   pronouns: 'she' | 'her',
+   technologies: {
+      language: ['javascript','java'],
+      frontEnd: ['SCSS', 'HTML', 'CSS'],
+      backEnd: ['Node.js', 'Express.js', spring, spring boot],
+      architecture: ['microservices'],
+      testing: ['jest, 'jUnit'],
+      tools: [
+         'Webpack',
+	 'npm',
+	 'Git',
+	 'GitHub',
+	 'visuel studios,
+	      ],
+       currentlyLearning: ['Angular', 'TypeScript'], 
+    },
 };
 ```
 ### <img src="https://media.giphy.com/media/YLxkiyH7rXlnZwPk7E/giphy.gif" width="50"> When I'm not coding, I like...

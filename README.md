@@ -7,12 +7,34 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Angular 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Ask me about: anything related to programming
+- 📫 How to reach me: LinkedIn/Facebook
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 -->
+
+### <img src="https://media.giphy.com/media/j0MktH0wmO0U4XVUAx/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const emiri = {
+	pronouns: 'she' | 'her',
+	technologies: {
+		language: 'javascript',
+		frontEnd: ['SCSS', 'HTML', 'CSS', 'React'],
+		backEnd: ['Node.js', 'Express.js'],
+		tools: [
+			'Webpack',
+			'npm',
+			'nvm',
+			'Git',
+			'GitHub',
+			'Heroku',
+			'Visual Studio Code',
+		],
+		currentlyLearning: 'Angular', 'TypeScript', 'yarn',
+	},
+};
+```

@@ -35,7 +35,9 @@ const nouha = {
 	technologies: {
 		language: 'javascript',java
 		frontEnd: ['SCSS', 'HTML', 'CSS'],
-		backEnd: ['Node.js', 'Express.js', java],
+		backEnd: ['Node.js', 'Express.js', spring, spring boot],
+		architecture: ['microservices'],
+		testing: ['jest, 'jUnit'],
 		tools: [
 			'Webpack',
 			'npm',

@@ -1,5 +1,7 @@
 ### Hello World, I'm NOUHA  👋
 
+<p><em>Master in Information systems engineering at <a href="http://www.http://www.fsegt.rnu.tn/">University of Tunis</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+
 <img align="right" alt="GIF" src="https://github.com/NouhaSallouhi/NouhaSallouhi/blob/main/coderGirl.gif?raw=true" width="500" height="320" />
 
 <!--
@@ -19,22 +21,21 @@ Here are some ideas to get you started:
 ### <img src="https://media.giphy.com/media/j0MktH0wmO0U4XVUAx/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const emiri = {
+const nouha = {
 	pronouns: 'she' | 'her',
 	technologies: {
-		language: 'javascript',
-		frontEnd: ['SCSS', 'HTML', 'CSS', 'React'],
-		backEnd: ['Node.js', 'Express.js'],
+		language: 'javascript',java
+		frontEnd: ['SCSS', 'HTML', 'CSS'],
+		backEnd: ['Node.js', 'Express.js', java],
 		tools: [
 			'Webpack',
 			'npm',
-			'nvm',
 			'Git',
 			'GitHub',
-			'Heroku',
 			'Visual Studio Code',
+			
 		],
-		currentlyLearning: 'Angular', 'TypeScript', 'yarn',
+		currentlyLearning: 'Angular', 'TypeScript', 
 	},
 };
 ```
